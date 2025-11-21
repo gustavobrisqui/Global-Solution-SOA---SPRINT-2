@@ -3,6 +3,15 @@
 API desenvolvida para suportar o cenário de Upskilling e Reskilling no contexto do Futuro do Trabalho.
 O sistema gerencia Usuários, Trilhas de Aprendizagem e Matrículas, utilizando FastAPI e SQLite.
 
+A SkillBoost API apoia diretamente o Futuro do Trabalho, criando uma base tecnológica para estratégias de Upskilling e Reskilling, essenciais diante da automação e transformação digital até 2030.
+A solução se alinha às ODS:
+
+ODS 4 (Educação de Qualidade), ao oferecer uma plataforma para trilhas de aprendizagem;
+
+ODS 8 (Trabalho Decente), ao apoiar requalificação profissional;
+
+ODS 9 (Indústria, Inovação e Infraestrutura), ao empregar arquitetura moderna e escalável.
+
 🧩 Linguagem e Versão
 
 Python 3.12.x
