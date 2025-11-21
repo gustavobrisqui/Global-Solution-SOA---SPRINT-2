@@ -64,6 +64,7 @@ Cria as tabelas no banco via Alembic:
 alembic upgrade head
 
 4️⃣ Iniciar a aplicação
+
 uvicorn app.main:app --reload
 
 🌐 Porta Padrão da API
